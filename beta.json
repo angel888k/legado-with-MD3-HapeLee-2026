@@ -1,49 +1,49 @@
 {
-  "tag_name": "3.26.16-beta.22",
-  "name": "Pre-release 3.26.16-beta.22",
-  "body": "**此版本为测试版，会存在不稳定问题。**\n### [发布页](https://t.me/materado)\n### [反馈群组](https://t.me/+Yn1_v5PZqddmMjQ1)\n\n### 更新内容\n\n* feat: 导航和界面优化\n* feat: 漫画相关问题\n* feat: 眉/页脚边距上限300\n* feat: 补充详情页其他神秘组件",
+  "tag_name": "3.26.16-beta.23",
+  "name": "Pre-release 3.26.16-beta.23",
+  "body": "**此版本为测试版，会存在不稳定问题。**\n### [发布页](https://t.me/materado)\n### [反馈群组](https://t.me/+Yn1_v5PZqddmMjQ1)\n\n### 更新内容\n\n* fix: clarify change-source action and sheet title (#2157)\n* fix: 从媒体控件打开阅读器时重置导航栈至主页 (#2158)\n* feat: 登录相关\n* feat: 订阅源相关\n* feat: 登录SheetWebView问题\n* feat: 听书相关\n* feat: 有声书相关\n* feat: 听书相关问题",
   "prerelease": true,
-  "created_at": "2026-08-26T17:14:51Z",
+  "created_at": "2026-08-30T19:35:46Z",
   "assets": [
     {
-      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.22/legado-3.26.16-beta.22-arm64-v8a.apk",
+      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.23/legado-3.26.16-beta.23-arm64-v8a.apk",
       "content_type": "application/vnd.android.package-archive",
-      "created_at": "2026-08-26T17:42:26Z",
+      "created_at": "2026-08-30T19:51:55Z",
       "download_count": 0,
-      "id": 531116405,
-      "name": "legado-3.26.16-beta.22-arm64-v8a.apk",
+      "id": 536994692,
+      "name": "legado-3.26.16-beta.23-arm64-v8a.apk",
       "state": "uploaded",
-      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/531116405"
+      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/536994692"
     },
     {
-      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.22/legado-3.26.16-beta.22-armeabi-v7a.apk",
+      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.23/legado-3.26.16-beta.23-armeabi-v7a.apk",
       "content_type": "application/vnd.android.package-archive",
-      "created_at": "2026-08-26T17:42:26Z",
+      "created_at": "2026-08-30T19:51:55Z",
       "download_count": 0,
-      "id": 531116404,
-      "name": "legado-3.26.16-beta.22-armeabi-v7a.apk",
+      "id": 536994694,
+      "name": "legado-3.26.16-beta.23-armeabi-v7a.apk",
       "state": "uploaded",
-      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/531116404"
+      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/536994694"
     },
     {
-      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.22/legado-3.26.16-beta.22.apk",
+      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.23/legado-3.26.16-beta.23.apk",
       "content_type": "application/vnd.android.package-archive",
-      "created_at": "2026-08-26T17:42:26Z",
+      "created_at": "2026-08-30T19:51:55Z",
       "download_count": 0,
-      "id": 531116407,
-      "name": "legado-3.26.16-beta.22.apk",
+      "id": 536994693,
+      "name": "legado-3.26.16-beta.23.apk",
       "state": "uploaded",
-      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/531116407"
+      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/536994693"
     },
     {
-      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.22/mapping.txt",
+      "browser_download_url": "https://github.com/HapeLee/legado-with-MD3/releases/download/3.26.16-beta.23/mapping.txt",
       "content_type": "text/plain",
-      "created_at": "2026-08-26T17:42:26Z",
+      "created_at": "2026-08-30T19:51:55Z",
       "download_count": 0,
-      "id": 531116406,
+      "id": 536994695,
       "name": "mapping.txt",
       "state": "uploaded",
-      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/531116406"
+      "url": "https://api.github.com/repos/HapeLee/legado-with-MD3/releases/assets/536994695"
     }
   ]
 }
